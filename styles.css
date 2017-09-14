@@ -1,0 +1,75 @@
+html {
+    margin: 100px 150px 100px 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:lightblue
+}
+
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color:#DC18AD;
+
+}
+a:hover {
+    color:gray;
+}
+
+
+
+
+#sr {
+
+    text-align: right;
+    width: auto;
+    height: auto;
+    border-radius: 25px;
+
+}
+
+#dc {
+    float:right;
+    width:300px;
+
+    
+}
+ 
+section {
+    padding-block-start: 30px;
+}
+
+
+h1 {
+    text-align: center;
+    color: #DC18AD;
+    font-size: 3em;
+    
+}
+
+#kansascity {
+    padding-block-start: 60px;
+}
+
+#kcimg {
+    border-radius: 25px;
+}
+
+p {
+    
+    font-size: 1.5em;
+}
+
+
+ul {
+    color: orangered;
+    font-size: 1.5em;
+    text-decoration:none;
+    
+
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+}
